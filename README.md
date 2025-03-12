@@ -1,7 +1,5 @@
 # 📌 Git & GitHub: Guía Completa 🚀  
 
-Bienvenido/a a esta guía sobre Git y GitHub. Aquí encontrarás explicaciones detalladas de los conceptos clave, junto con pasos prácticos para usarlos en IntelliJ, GitHub y la terminal de comandos.  
-
 ## 📖 Tabla de Contenidos  
 1. [📥 Clonar un repositorio (`clone`)](#-clonar-un-repositorio-clone)  
 2. [🍴 Hacer un fork (`fork`)](#-hacer-un-fork-fork)  
